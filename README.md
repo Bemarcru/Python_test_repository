@@ -8,6 +8,8 @@ The data set provided is: confocal images of human neurons cocultured with hek c
 
 ## Packages used:
 
+It requires OpenCV, numpy, pandas and openpyxl (for writing an excel file as output data).
+
 * Open CV package:
 
 conda install -c conda-forge opencv 
@@ -21,12 +23,11 @@ pip install openpyxl
 python image_cv2ROI.py ../A2-MaxIP_XY01_RGB_Cy5.tif
 
 
-
 python image_cv2mask.py ../A2-MaxIP_XY06_RGB_Cy5.tif
 
 
 
-and so on for the different images included.
+and so on for the different image files included in test Data folder.
 
 
 
