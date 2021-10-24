@@ -20,7 +20,7 @@ pip install openpyxl
 
 ## Usage
 
-python image_cv2ROI.py ../A2-MaxIP_XY01_RGB_Cy5.tif
+python image_cv2mask.py ../A2-MaxIP_XY01_RGB_Cy5.tif
 
 
 python image_cv2mask.py ../A2-MaxIP_XY06_RGB_Cy5.tif
