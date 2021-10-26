@@ -20,6 +20,10 @@ pip install openpyxl
 
 ## Usage
 
+image_cv2mask.py <path to image.tif> 
+
+Examples:
+
 python image_cv2mask.py ../A2-MaxIP_XY01_RGB_Cy5.tif
 
 
