@@ -31,7 +31,7 @@ python image_cv2mask.py ../A2-MaxIP_XY06_RGB_Cy5.tif
 
 
 
-and so on for the different image files included in test Data folder.
+and so on for the different image files included in Test data folder.
 
 
 
