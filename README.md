@@ -1,6 +1,6 @@
 # Python_test_repository
 
-Python script generated to perform image analysis with OpenCV. We will obtain average intensity within a ROI defined by thresholded contours. Basically, the original image file is filtered with Gaussian Blur filter and then thresholded to select only the brightest points within a cropped region. A mask with those brightest regions is created and overlapped to the original image to select only those areas for the average intensity calculation. 
+Python script generated to perform image analysis with OpenCV. We will obtain the average intensity within a ROI defined by thresholded contours. Basically, the original image file is filtered with Gaussian Blur filter and then thresholded to select only the brightest points within a cropped region. A mask with those brightest regions is created and overlapped to the original image to select only those areas for the average intensity calculation. 
 
 The data set provided is: confocal images of human neurons cocultured with hek cells expressing post-synaptic receptors (artificial synapse formation assay). Images are maximum intensity projections for the Cy5 channel. The ROI will thus select only the synaptic puncta formed over a hek cell.
 
